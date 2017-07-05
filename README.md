@@ -3,7 +3,7 @@ React multi slide show
 *********************************************
 
 Steps to Run
-install node
+ --Install node if you didn't install
 
 1) npm install
 2) npm install react-slick
